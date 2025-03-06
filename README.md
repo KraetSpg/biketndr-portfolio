@@ -1,4 +1,3 @@
-=======
 # 🏍️ BikeTndr
 
 BikeTndr ist eine **Next.js**-App, die Motorradfahrer miteinander verbindet! 🏍️🔥 Die Plattform ermöglicht es Nutzern, andere Biker in der Nähe zu finden, geplante Routen zu entdecken und eine starke Community aufzubauen.
